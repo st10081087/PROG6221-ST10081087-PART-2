@@ -1,0 +1,6 @@
+C:\Users\lab_services_student\source\repos\prog6221-st10081087-st10081087\RecipeTests\obj\Debug\net8.0\RecipeTests.csproj.AssemblyReference.cache
+C:\Users\lab_services_student\source\repos\prog6221-st10081087-st10081087\RecipeTests\obj\Debug\net8.0\RecipeTests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lab_services_student\source\repos\prog6221-st10081087-st10081087\RecipeTests\obj\Debug\net8.0\RecipeTests.AssemblyInfoInputs.cache
+C:\Users\lab_services_student\source\repos\prog6221-st10081087-st10081087\RecipeTests\obj\Debug\net8.0\RecipeTests.AssemblyInfo.cs
+C:\Users\lab_services_student\source\repos\prog6221-st10081087-st10081087\RecipeTests\obj\Debug\net8.0\RecipeTests.csproj.CoreCompileInputs.cache
+C:\Users\lab_services_student\source\repos\prog6221-st10081087-st10081087\RecipeTests\obj\Debug\net8.0\RecipeTests.sourcelink.json

@@ -1,0 +1,16 @@
+C:\Users\lab_services_student\source\repos\prog6221-st10081087-st10081087\prog6221-st10081087-st10081087\bin\Debug\net8.0\prog6221-st10081087-st10081087.exe
+C:\Users\lab_services_student\source\repos\prog6221-st10081087-st10081087\prog6221-st10081087-st10081087\bin\Debug\net8.0\prog6221-st10081087-st10081087.deps.json
+C:\Users\lab_services_student\source\repos\prog6221-st10081087-st10081087\prog6221-st10081087-st10081087\bin\Debug\net8.0\prog6221-st10081087-st10081087.runtimeconfig.json
+C:\Users\lab_services_student\source\repos\prog6221-st10081087-st10081087\prog6221-st10081087-st10081087\bin\Debug\net8.0\prog6221-st10081087-st10081087.dll
+C:\Users\lab_services_student\source\repos\prog6221-st10081087-st10081087\prog6221-st10081087-st10081087\bin\Debug\net8.0\prog6221-st10081087-st10081087.pdb
+C:\Users\lab_services_student\source\repos\prog6221-st10081087-st10081087\prog6221-st10081087-st10081087\obj\Debug\net8.0\prog6221-st10081087-st10081087.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lab_services_student\source\repos\prog6221-st10081087-st10081087\prog6221-st10081087-st10081087\obj\Debug\net8.0\prog6221-st10081087-st10081087.AssemblyInfoInputs.cache
+C:\Users\lab_services_student\source\repos\prog6221-st10081087-st10081087\prog6221-st10081087-st10081087\obj\Debug\net8.0\prog6221-st10081087-st10081087.AssemblyInfo.cs
+C:\Users\lab_services_student\source\repos\prog6221-st10081087-st10081087\prog6221-st10081087-st10081087\obj\Debug\net8.0\prog6221-st10081087-st10081087.csproj.CoreCompileInputs.cache
+C:\Users\lab_services_student\source\repos\prog6221-st10081087-st10081087\prog6221-st10081087-st10081087\obj\Debug\net8.0\prog6221-st10081087-st10081087.dll
+C:\Users\lab_services_student\source\repos\prog6221-st10081087-st10081087\prog6221-st10081087-st10081087\obj\Debug\net8.0\refint\prog6221-st10081087-st10081087.dll
+C:\Users\lab_services_student\source\repos\prog6221-st10081087-st10081087\prog6221-st10081087-st10081087\obj\Debug\net8.0\prog6221-st10081087-st10081087.pdb
+C:\Users\lab_services_student\source\repos\prog6221-st10081087-st10081087\prog6221-st10081087-st10081087\obj\Debug\net8.0\prog6221-st10081087-st10081087.genruntimeconfig.cache
+C:\Users\lab_services_student\source\repos\prog6221-st10081087-st10081087\prog6221-st10081087-st10081087\obj\Debug\net8.0\ref\prog6221-st10081087-st10081087.dll
+C:\Users\lab_services_student\source\repos\prog6221-st10081087-st10081087\prog6221-st10081087-st10081087\obj\Debug\net8.0\prog6221-st10081087-st10081087.sourcelink.json
+C:\Users\lab_services_student\source\repos\prog6221-st10081087-st10081087\prog6221-st10081087-st10081087\obj\Debug\net8.0\prog6221-st10081087-st10081087.csproj.AssemblyReference.cache
